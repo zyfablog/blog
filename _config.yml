@@ -8,14 +8,14 @@ relative_permalinks: true
 title:               常春藤的博客
 tagline:             ''
 description:         ''
-url:                 http://zyfa.info
-baseurl:             'http://zyfa.info'
+url:                 http://en.zyfa.info
+baseurl:             'http://en.zyfa.info'
 paginate:            5
 
 # About/contact
 author:
   name:              Thomas
-  url:               http://zyfa.info
+  url:               http://en.zyfa.info
   email:             zyfa2008@gmail.com
 
 # Custom vars
